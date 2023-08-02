@@ -1,10 +1,10 @@
 
 module.exports = {
-    "registercommands" : false, //Write True If You Are Launching The Bot First Time
-     "token": "", //Your Super Secret Bot Token
+    "registercommands" : True, //Write True If You Are Launching The Bot First Time
+     "token": "MTEzMDkwMDk4MDc5NjUxMDM5Mw.GBmfsO.ZpTtWP6Yv6VRk1k1w4UEIln8fbTP572v5tyVDU", //Your Super Secret Bot Token
     "imageapi": "", //Your Amethyste Api You can get it from https://api.amethyste.moe/
-    "ownerID": [], //Your Discord User ID
-"prefix": "", //Your Bot's Prefix
+    "ownerID": [440640252592390144], //Your Discord User ID
+"prefix": "!", //Your Bot's Prefix
 "chat": {
         "url": "",
         "bid": "",
