@@ -1,4 +1,4 @@
-yarn install
+nvm install 16.9.0
 const Discord = require("discord.js");
 const path = require('path')
 const { Collection, Client, Message } = require("discord.js");
